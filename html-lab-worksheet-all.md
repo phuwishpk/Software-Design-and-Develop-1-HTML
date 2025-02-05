@@ -1,4 +1,4 @@
-# ใบงานการทดลอง HTML
+![Screenshot (5)](https://github.com/user-attachments/assets/c7b0c53b-459c-482c-988a-0c57025209f7)# ใบงานการทดลอง HTML
 
 ## จุดประสงค์การเรียนรู้
 1. อธิบายโครงสร้างของ HTML ได้
@@ -323,6 +323,7 @@
 ```
 - ภาพผลลัพธ์:
 [วางภาพ screenshot ที่นี่]
+![Uploading Screenshot (5).png…]()
 
 
 ## การทดลองที่ 5: การสร้างตารางและรายการ
